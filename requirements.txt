@@ -1,4 +1,4 @@
 gradio
 pillow
 numpy
-opencv-python-headles
+opencv-python-headless
